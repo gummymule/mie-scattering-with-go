@@ -8,6 +8,6 @@ flowchart TD
     D --> E[Hitung h_n slices]
     E --> F[Hitung psi slices]
     F --> G[Hitung psi deriv slices]
-    G --> H[Hitung a(n) dan b(n)]
+    G --> H[Hitung koefisien a dan koefisien b]
     H --> I[Hitung Total, ED, MD, EQ, MQ]
-    I --> J[Output: a(n), b(n), ED, MD, EQ, MQ, Total]
+    I --> J[Output: koefisien a, koefisien b, ED, MD, EQ, MQ, Total]
