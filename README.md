@@ -26,3 +26,4 @@ flowchart TD
 
     %% Output
     I --> J[Output: slices a[n], b[n], ED, MD, EQ, MQ, Total Scattering Cross-section]
+```
